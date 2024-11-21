@@ -1,0 +1,6 @@
+input_s = str(input("Please tell me your age : "))
+input_s = int(input_s)
+print(f"You are currently {input_s} years old")
+print(f"In 1o years, you'll be {input_s + 10}")
+print(f"In 20 years, you'll be {input_s + 20}")
+print(f"In 30 years, you'll be {input_s + 30}")
